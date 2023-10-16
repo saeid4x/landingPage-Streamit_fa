@@ -2,10 +2,11 @@
 
 ## ScreenShot of Project
  ![image screenshot](screenshot.png)
+ ![image screenshot](screenshot1.png)
 
 ## see project live in following link
 
-http://movie-site.6te.net/
+http://my-movie.eu5.org/
 
 
  
